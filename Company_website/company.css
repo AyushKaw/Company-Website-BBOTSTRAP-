@@ -1,0 +1,75 @@
+body{
+     font-family: Arvo, serif;
+     background: url(sky.jpeg) no-repeat center center;
+     background-attachment: fixed;
+     background-size: cover;
+ }
+ 
+ /*Style brand*/
+.logo{
+     height: 40px;  
+     padding-bottom: 10px; 
+}
+.navbar-inverse {
+     background: rgba(0,0,0,0.5);
+}
+.nav li {
+     color: #fff;
+     font-size: 17px;
+     margin-right: 25px;
+     padding: 10px 0;
+}
+.nav li:hover {
+     border-bottom: 1px solid #00FFBB;
+     cursor: pointer;
+     padding-bottom: 9px;
+}
+.jumbotron {
+     background-color: transparent;
+     color: white;
+     text-align: center;
+     margin: 0;
+     padding: 10px;
+     letter-spacing: 2.5px;
+}
+.bodyimage {
+     width: 130px;
+     height: 160px;
+     margin-top: 30px;
+     margin-left: 102px;
+}
+h2 {
+     color: white;
+     margin-left: 110px;
+}
+p {
+     color: white;
+     font-size: large;
+     text-align: center;
+}
+.btn1 {
+     background-color: rgba(0, 255, 184, 0.6);
+     margin-left: 660px;
+     margin-top: 50px;
+     width: 170px;
+     height: 40px;
+     text-align: center;
+     border-radius: 10px;
+     color: white;
+}
+.btn1:hover {
+     background-color: rgba(0, 0, 0, 0.5);
+}
+.container-fluid1 p {
+     text-align: left;
+     opacity: 0.5;
+}
+.container-fluid1 {
+     background-color: rgba(0,0,0,0.5);
+     width: 100%;
+     height: 60px;
+     margin: 0;
+     padding-top: 10px;
+     padding-left: 200px;
+     margin-top: 25px;
+}
